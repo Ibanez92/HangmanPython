@@ -1,5 +1,10 @@
 # Play Hangman from command-line interface
+Python hangman game used in the terminal
 
-Run Python from command line and enjoy!
+# Technology Used
+Python
 
-<iframe src="https://drive.google.com/file/d/1oZTBRQAYV02Sp3grnNbjRoJ9-FKclEoa/preview" width="640" height="480"></iframe>
+Turtle
+
+# Demo
+![Hangman app demo video](https://media.giphy.com/media/HNYvIUiG5TKaJEYmKE/giphy.gif)
